@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajeshkumarsahoo006@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/fnoy8](shorturl.at/fnoy8)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pJgkavAHpXYkkoyEK3j4xz7i8ugQ0viW/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
