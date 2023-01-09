@@ -32,7 +32,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj3028" alt="" /></a> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=raj3028&theme=flat)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=raj3028&theme=flat) -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj3028&show_icons=true&locale=en&layout=compact" alt="raj3028" /></p>
 
@@ -42,8 +42,8 @@
 
 
 
-
+<!-- 
 ## Snake eating my Contribution Graph
-![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif) -->
 
-![gitartwork](gitartwork.svg)
+<!-- ![gitartwork](gitartwork.svg) -->
