@@ -42,8 +42,8 @@
 
 
 
-<!-- 
-## Snake eating my Contribution Graph
-![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif) -->
 
-<!-- ![gitartwork](gitartwork.svg) -->
+## Snake eating my Contribution Graph
+![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif)
+
+![gitartwork](gitartwork.svg) 
