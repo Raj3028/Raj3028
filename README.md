@@ -1,8 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Rajesh Kumar Sahoo</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 <h3 align="center">A Passionate BackEnd Developer from Function-Up.</h3><br/>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj3028&label=Profile%20views&color=0e75b6&style=flat" alt="raj3028" /> </p>
@@ -34,16 +35,20 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=raj3028&theme=flat) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj3028&show_icons=true&locale=en&layout=compact" alt="raj3028" /></p>
+<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj3028&show_icons=true&locale=en&layout=compact" alt="raj3028" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj3028&show_icons=true&locale=en" alt="raj3028" /></p>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=raj3028&show_icons=true&locale=en" alt="raj3028" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=raj3028&" alt="raj3028" /></p>
+<p><img align="centre" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=raj3028&" alt="raj3028" /></p>
 
 
 
 
 ## Snake eating my Contribution Graph
-![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake2.svg)
 
 ![gitartwork](gitartwork.svg) 
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+<p align="center"><strong><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></strong></p>
