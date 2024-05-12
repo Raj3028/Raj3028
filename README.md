@@ -41,11 +41,11 @@
 
 <p><img align="centre" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=raj3028&" alt="raj3028" /></p>
 
+<br/>
 
 
-
-## Snake eating my Contribution Graph
-![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif)
+<!-- ## Snake eating my Contribution Graph
+![snake gif](https://github.com/Raj3028/Raj3028/blob/output/github-contribution-grid-snake.gif) -->
 
 ![gitartwork](gitartwork.svg) 
 
